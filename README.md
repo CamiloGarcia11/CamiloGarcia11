@@ -32,15 +32,15 @@
 
 <p align="center">
   <!-- Tarjeta de estadísticas generales -->
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CamiloGarcia11&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub" height="165" />
   
   <!-- Lenguajes más usados -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloGarcia11&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" height="165" />
 </p>
 
 <p align="center">
   <!-- Racha de contribuciones -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_AQUI&theme=radical&hide_border=true" alt="Racha en GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CamiloGarcia11&theme=radical&hide_border=true" alt="Racha en GitHub" />
 </p>
 
 ---
@@ -48,11 +48,7 @@
 ### 📫 Conectemos
 
 <p align="center">
-  <a href="https://www.linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:tu-correo@example.com">
+  <a href="mailto:edwin.camilo2004@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
